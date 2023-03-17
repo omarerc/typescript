@@ -1,0 +1,5 @@
+# Build files
+build/
+
+# JavaScript file extension
+*.js
